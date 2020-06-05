@@ -8,7 +8,7 @@ Gear to make Surgical Masks smarter helping save several lives.
 <img src="https://github.com/akshatvg/SurgicalGlass/blob/master/Logo.png" alt="Logo"/>
 </p>
 
-![Generic badge](https://img.shields.io/badge/timemator-clone-orange) 
+![Generic badge](https://img.shields.io/badge/surgical-glass-orange) 
 
 #### Link for [App APK](https://github.com/akshatvg/SurgicalGlass/blob/master/app/app-release.apk) 
 [![Generic badge](https://img.shields.io/badge/view-apk-orange)](https://github.com/akshatvg/SurgicalGlass/blob/master/app/app-release.apk)
@@ -38,7 +38,7 @@ We tried asking a few contacts who are acting surgeons for their take on our ide
 
 ## Requirements
 
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/SurgicalGlass?logo=html&style=social)](https://github.com/akshatvg/)
+[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/SurgicalGlass?logo=python&style=social)](https://github.com/akshatvg/)
 
 The source code of this project is written in **`Flask, HTML/CSS/JS, AWS`**. So, you need to install dependencies to run this project. Since this is a hardware project you will also need the necessary hardware.
 
